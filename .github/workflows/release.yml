@@ -1,0 +1,55 @@
+﻿name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+      
+        uses: actions/checkout@v4
+
+      - name: Set up .NET 8 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build (Release)
+        run: dotnet build Cs2SaveLoc/Cs2SaveLoc.csproj -c Release --no-restore
+
+      - name: Collect artifacts
+        run: |
+          mkdir -p artifacts
+          cp Cs2SaveLoc/bin/Release/net8.0/Cs2SaveLoc.dll artifacts/
+          if [ -f Cs2SaveLoc/bin/Release/net8.0/Cs2SaveLoc.pdb ]; then cp Cs2SaveLoc/bin/Release/net8.0/Cs2SaveLoc.pdb artifacts/; fi
+          # Optional: package in plugin folder structure
+          mkdir -p package/game/csgo/addons/counterstrikesharp/plugins/Cs2SaveLoc
+          cp Cs2SaveLoc/bin/Release/net8.0/Cs2SaveLoc.dll package/game/csgo/addons/counterstrikesharp/plugins/Cs2SaveLoc/
+          (cd package && zip -r ../artifacts/Cs2SaveLoc-plugin-structure.zip .)
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Cs2SaveLoc-artifacts
+          path: artifacts/*
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            artifacts/Cs2SaveLoc.dll
+            artifacts/Cs2SaveLoc.pdb
+            artifacts/Cs2SaveLoc-plugin-structure.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -20,8 +20,9 @@ A CounterStrikeSharp plugin for Counter-Strike 2 that allows players to save and
 
 1. Install [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp).
 2. Download the latest release of `Cs2SaveLoc`.
-3. Extract the contents into the `game/csgo/addons/counterstrikesharp/plugins` directory of your CS2 server.
-4. Restart the server or hot-reload the plugins.
+3. Create a folder named `Cs2SaveLoc` in the `game/csgo/addons/counterstrikesharp/plugins` directory of your CS2 server.
+4. Copy `Cs2SaveLoc.dll` into that folder (`game/csgo/addons/counterstrikesharp/plugins/Cs2SaveLoc/Cs2SaveLoc.dll`).
+5. Restart the server or hot-reload the plugins.
 
 ## Requirements
 
