@@ -1,0 +1,253 @@
+﻿The template "Class Library" was created successfully.
+Processing post-creation actions...
+Restoring C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.csproj:
+  Determining projects to restore...
+  Restored C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.cspro
+  j (in 507 ms).
+Restore succeeded.
+Project `Cs2SaveLoc\Cs2SaveLoc.csproj` added to the solution.
+  Determining projects to restore...
+  Writing C:\Users\shaun\AppData\Local\Temp\tmpvjzgek.tmp
+info : X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+info : X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+info : Adding PackageReference for package 'CounterStrikeSharp.API' into project 'C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/index.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/index.json 184ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.25/1.0.94.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.25/1.0.94.json 110ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.95/1.0.160.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.95/1.0.160.json 108ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.161/1.0.227.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.161/1.0.227.json 146ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.228/1.0.291.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.228/1.0.291.json 112ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.292/1.0.355.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.292/1.0.355.json 107ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.356/2.0.0-alpha.1.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/counterstrikesharp.api/page/1.0.356/2.0.0-alpha.1.json 114ms
+info : Restoring packages for C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.csproj...
+info :   GET https://api.nuget.org/v3-flatcontainer/counterstrikesharp.api/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/counterstrikesharp.api/index.json 121ms
+info :   GET https://api.nuget.org/v3-flatcontainer/counterstrikesharp.api/1.0.363/counterstrikesharp.api.1.0.363.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/counterstrikesharp.api/1.0.363/counterstrikesharp.api.1.0.363.nupkg 152ms
+info :   GET https://api.nuget.org/v3-flatcontainer/mcmaster.netcore.plugins/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.apicompat.task/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.localization.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/scrutor/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog.extensions.logging/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog.sinks.console/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/tomlyn/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting/index.json 124ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting/8.0.0/microsoft.extensions.hosting.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.apicompat.task/index.json 130ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.apicompat.task/8.0.203/microsoft.dotnet.apicompat.task.8.0.203.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/index.json 131ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.localization.abstractions/index.json 132ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/scrutor/index.json 132ms
+info :   GET https://api.nuget.org/v3-flatcontainer/scrutor/4.2.2/scrutor.4.2.2.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting/8.0.0/microsoft.extensions.hosting.8.0.0.nupkg 10ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.localization.abstractions/8.0.3/microsoft.extensions.localization.abstractions.8.0.3.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/mcmaster.netcore.plugins/index.json 145ms
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog.sinks.console/index.json 136ms
+info :   GET https://api.nuget.org/v3-flatcontainer/mcmaster.netcore.plugins/1.4.0/mcmaster.netcore.plugins.1.4.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog.sinks.console/5.0.0/serilog.sinks.console.5.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg 9ms
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog/index.json 140ms
+info :   OK https://api.nuget.org/v3-flatcontainer/tomlyn/index.json 140ms
+info :   OK https://api.nuget.org/v3-flatcontainer/scrutor/4.2.2/scrutor.4.2.2.nupkg 11ms
+info :   GET https://api.nuget.org/v3-flatcontainer/tomlyn/0.19.0/tomlyn.0.19.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog.extensions.logging/index.json 147ms
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog/2.10.0/serilog.2.10.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog.sinks.console/5.0.0/serilog.sinks.console.5.0.0.nupkg 9ms
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog.extensions.logging/8.0.0/serilog.extensions.logging.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.localization.abstractions/8.0.3/microsoft.extensions.localization.abstractions.8.0.3.nupkg 14ms
+info :   GET https://api.nuget.org/v3-flatcontainer/serilog/3.1.0/serilog.3.1.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/mcmaster.netcore.plugins/1.4.0/mcmaster.netcore.plugins.1.4.0.nupkg 19ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.binder/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.commandline/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.environmentvariables/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.fileextensions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.platformabstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.json/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.usersecrets/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog/3.1.0/serilog.3.1.0.nupkg 9ms
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog.extensions.logging/8.0.0/serilog.extensions.logging.8.0.0.nupkg 14ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/serilog/2.10.0/serilog.2.10.0.nupkg 16ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.physical/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.configuration/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.console/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.debug/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventlog/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventsource/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/tomlyn/0.19.0/tomlyn.0.19.0.nupkg 26ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging/index.json 175ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg 21ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.binder/index.json 106ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.environmentvariables/index.json 108ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.environmentvariables/8.0.0/microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/index.json 113ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.commandline/index.json 115ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/index.json 118ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg 8ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.commandline/8.0.0/microsoft.extensions.configuration.commandline.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.environmentvariables/8.0.0/microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg 8ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.platformabstractions/index.json 125ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg 8ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.commandline/8.0.0/microsoft.extensions.configuration.commandline.8.0.0.nupkg 10ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg 10ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/index.json 129ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/index.json 129ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.debug/index.json 125ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.physical/index.json 128ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.json/index.json 132ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/index.json 125ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/5.0.0/microsoft.extensions.dependencymodel.5.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventlog/index.json 128ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventsource/index.json 127ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.console/index.json 129ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/index.json 133ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg 8ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.debug/8.0.0/microsoft.extensions.logging.debug.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.configuration/index.json 131ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics/index.json 135ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.usersecrets/index.json 138ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.fileextensions/index.json 140ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventlog/8.0.0/microsoft.extensions.logging.eventlog.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventsource/8.0.0/microsoft.extensions.logging.eventsource.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.console/8.0.0/microsoft.extensions.logging.console.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg 10ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics/8.0.0/microsoft.extensions.diagnostics.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.debug/8.0.0/microsoft.extensions.logging.debug.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration/index.json 143ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.configuration/8.0.0/microsoft.extensions.logging.configuration.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.usersecrets/8.0.0/microsoft.extensions.configuration.usersecrets.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg 12ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/5.0.0/microsoft.extensions.dependencymodel.5.0.0.nupkg 14ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.apicompat.task/8.0.203/microsoft.dotnet.apicompat.task.8.0.203.nupkg 187ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg 9ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.abstractions/index.json 158ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventlog/8.0.0/microsoft.extensions.logging.eventlog.8.0.0.nupkg 22ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventsource/8.0.0/microsoft.extensions.logging.eventsource.8.0.0.nupkg 21ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.text.json/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/index.json 169ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg 11ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics/8.0.0/microsoft.extensions.diagnostics.8.0.0.nupkg 28ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg 29ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.diagnostics.diagnosticsource/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg 37ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.configuration/8.0.0/microsoft.extensions.logging.configuration.8.0.0.nupkg 32ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.usersecrets/8.0.0/microsoft.extensions.configuration.usersecrets.8.0.0.nupkg 34ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg 16ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.filesystemglobbing/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.console/8.0.0/microsoft.extensions.logging.console.8.0.0.nupkg 59ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options.configurationextensions/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/index.json 107ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg 9ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.text.json/index.json 106ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.text.json/8.0.0/system.text.json.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.text.json/8.0.0/system.text.json.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.diagnostics.diagnosticsource/index.json 110ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg 9ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.filesystemglobbing/index.json 108ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options.configurationextensions/index.json 108ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/index.json 125ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg 10ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/index.json 107ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg 8ms
+info : Installed Microsoft.Extensions.DependencyModel 6.0.0 from https://api.nuget.org/v3/index.json with content hash TD5QHg98m3+QhgEV1YVoNMl5KtBw/4rjfxLHO0e/YV9bPUBDKntApP4xdrVtGgCeQZHVfC2EXIGsdpRNrr87Pg==.
+info : Installed Microsoft.Extensions.Logging.EventSource 8.0.0 from https://api.nuget.org/v3/index.json with content hash oKcPMrw+luz2DUAKhwFXrmFikZWnyc8l2RKoQwqU3KIZZjcfoJE0zRHAnqATfhRZhtcbjl/QkiY2Xjxp0xu+6w==.
+info : Installed Microsoft.Extensions.Logging.EventLog 8.0.0 from https://api.nuget.org/v3/index.json with content hash 3X9D3sl7EmOu7vQp5MJrmIJBl5XSdOhZPYXUeFfYa6Nnm9+tok8x3t3IVPLhm7UJtPOU61ohFchw8rNm9tIYOQ==.
+info : Installed Microsoft.Extensions.Diagnostics.Abstractions 8.0.0 from https://api.nuget.org/v3/index.json with content hash JHYCQG7HmugNYUhOl368g+NMxYE/N/AiclCYRNlgCY9eVyiBkOHMwK4x60RYMxv9EL3+rmj1mqHvdCiPpC+D4Q==.
+info : Installed Microsoft.Extensions.Options.ConfigurationExtensions 8.0.0 from https://api.nuget.org/v3/index.json with content hash 0f4DMRqEd50zQh+UyJc+/HiBsZ3vhAQALgdkcQEalSH1L2isdC7Yj54M3cyo5e+BeO5fcBQ7Dxly8XiBBcvRgw==.
+info : Installed Microsoft.Extensions.Logging.Debug 8.0.0 from https://api.nuget.org/v3/index.json with content hash dt0x21qBdudHLW/bjMJpkixv858RRr8eSomgVbU8qljOyfrfDGi1JQvpF9w8S7ziRPtRKisuWaOwFxJM82GxeA==.
+info : Installed Microsoft.Extensions.FileSystemGlobbing 8.0.0 from https://api.nuget.org/v3/index.json with content hash OK+670i7esqlQrPjdIKRbsyMCe9g5kSLpRRQGSr4Q58AOYEe/hCnfLZprh7viNisSUUQZmMrbbuDaIrP+V1ebQ==.
+info : Installed Microsoft.Extensions.Logging.Console 8.0.0 from https://api.nuget.org/v3/index.json with content hash e+48o7DztoYog+PY430lPxrM4mm3PbA6qucvQtUDDwVo4MO+ejMw7YGc/o2rnxbxj4isPxdfKFzTxvXMwAz83A==.
+info : Installed Microsoft.Extensions.Primitives 8.0.0 from https://api.nuget.org/v3/index.json with content hash bXJEZrW9ny8vjMF1JV253WeLhpEVzFo1lyaZu1vQ4ZxWUlVvknZ/+ftFgVheLubb4eZPSwwxBeqS1JkCOjxd8g==.
+info : Installed System.Diagnostics.DiagnosticSource 8.0.0 from https://api.nuget.org/v3/index.json with content hash c9xLpVz6PL9lp/djOWtk5KPDZq3cSYpmXoJQY524EOtuFl5z9ZtsotpsyrDW40U1DRnQSYvcPKEUV0X//u6gkQ==.
+info : Installed Serilog 3.1.0 from https://api.nuget.org/v3/index.json with content hash UPJGG8Hz12obhtAELHb0q83j0YpO1vGCypUbH0P4wMZnrpcqmrSLhHkZ/4Ojc+iNVpLwZ/wPBVC3lwSzzoZ/MQ==.
+info : Installed System.Text.Encodings.Web 8.0.0 from https://api.nuget.org/v3/index.json with content hash yev/k9GHAEGx2Rg3/tU6MQh4HGBXJs70y7j1LaM1i/ER9po+6nnQ6RRqTJn1E7Xu0fbIFK80Nh5EoODxrbxwBQ==.
+info : Installed Serilog 2.10.0 from https://api.nuget.org/v3/index.json with content hash +QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==.
+info : Installed CounterStrikeSharp.API 1.0.363 from https://api.nuget.org/v3/index.json with content hash pV5wgklWUK+re+kYYRyq/Hdld9FCHF7I7dvvvgz0AdVORapbZZggWw3s51QnOU7rgVovbPlue+pHeSlKnJGXCQ==.
+info : Installed McMaster.NETCore.Plugins 1.4.0 from https://api.nuget.org/v3/index.json with content hash UKw5Z2/QHhkR7kiAJmqdCwVDMQV0lwsfj10+FG676r8DsJWIpxtachtEjE0qBs9WoK5GUQIqxgyFeYUSwuPszg==.
+info : Installed System.Diagnostics.EventLog 8.0.0 from https://api.nuget.org/v3/index.json with content hash fdYxcRjQqTTacKId/2IECojlDSFvp7LP5N78+0z/xH7v/Tuw5ZAxu23Y6PTCRinqyu2ePx+Gn1098NC6jM6d+A==.
+info : Installed Microsoft.Extensions.Localization.Abstractions 8.0.3 from https://api.nuget.org/v3/index.json with content hash k/kUPm1FQBxcs9/vsM1eF4qIOg2Sovqh/+KUGHur5Mc0Y3OFGuoz9ktBX7LA0gPz53SZhW3W3oaSaMFFcjgM6Q==.
+info : Installed Microsoft.Extensions.Options 8.0.0 from https://api.nuget.org/v3/index.json with content hash JOVOfqpnqlVLUzINQ2fox8evY2SKLYJ3BV8QDe/Jyp21u1T7r45x/R/5QdteURMR5r01GxeJSBBUOCOyaNXA3g==.
+info : Installed Serilog.Extensions.Logging 8.0.0 from https://api.nuget.org/v3/index.json with content hash YEAMWu1UnWgf1c1KP85l1SgXGfiVo0Rz6x08pCiPOIBt2Qe18tcZLvdBUuV5o1QHvrs8FAry9wTIhgBRtjIlEg==.
+info : Installed Tomlyn 0.19.0 from https://api.nuget.org/v3/index.json with content hash GlI2o8R8jbZIaE+YX6uA/VoAOH7zIxYeqxDm7jHW2hqUhuB+q19oKold35FkMuv8IZDoCqsTMolaBv2eBLBmrQ==.
+info : Installed Serilog.Sinks.Console 5.0.0 from https://api.nuget.org/v3/index.json with content hash IZ6bn79k+3SRXOBpwSOClUHikSkp2toGPCZ0teUkscv4dpDg9E2R2xVsNkLmwddE4OpNVO3N0xiYsAH556vN8Q==.
+info : Installed Microsoft.DotNet.PlatformAbstractions 3.1.6 from https://api.nuget.org/v3/index.json with content hash jek4XYaQ/PGUwDKKhwR8K47Uh1189PFzMeLqO83mXrXQVIpARZCcfuDedH50YDTepBkfijCZN5U/vZi++erxtg==.
+info : Installed Scrutor 4.2.2 from https://api.nuget.org/v3/index.json with content hash t5VIYA7WJXoJJo7s4DoHakMGwTu+MeEnZumMOhTCH7kz9xWha24G7dJNxWrHPlu0ZdZAS4jDZCxxAnyaBh7uYw==.
+info : Installed Microsoft.Extensions.Hosting 8.0.0 from https://api.nuget.org/v3/index.json with content hash ItYHpdqVp5/oFLT5QqbopnkKlyFG9EW/9nhM6/yfObeKt6Su0wkBio6AizgRHGNwhJuAtlE5VIjow5JOTrip6w==.
+info : Installed Microsoft.Extensions.Hosting.Abstractions 8.0.0 from https://api.nuget.org/v3/index.json with content hash AG7HWwVRdCHlaA++1oKDxLsXIBxmDpMPb3VoyOoAghEWnkUvEAdYQUwnV4jJbAaa/nMYNiEh5ByoLauZBEiovg==.
+info : Installed Microsoft.Extensions.Logging 8.0.0 from https://api.nuget.org/v3/index.json with content hash tvRkov9tAJ3xP51LCv3FJ2zINmv1P8Hi8lhhtcKGqM+ImiTCC84uOPEI4z8Cdq2C3o9e+Aa0Gw0rmrsJD77W+w==.
+info : Installed Microsoft.Extensions.Logging.Configuration 8.0.0 from https://api.nuget.org/v3/index.json with content hash ixXXV0G/12g6MXK65TLngYN9V5hQQRuV+fZi882WIoVJT7h5JvoYoxTEwCgdqwLjSneqh1O+66gM8sMr9z/rsQ==.
+info : Installed Microsoft.Extensions.DependencyModel 5.0.0 from https://api.nuget.org/v3/index.json with content hash umBECCoMC+sOUgm083yFr8SxTobUOcPFH4AXigdO2xJiszCHAnmeDl4qPphJt+oaJ/XIfV1wOjIts2nRnki61Q==.
+info : Installed Microsoft.Extensions.Configuration.Abstractions 8.0.0 from https://api.nuget.org/v3/index.json with content hash 3lE/iLSutpgX1CC0NOW70FJoGARRHbyKmG7dc0klnUZ9Dd9hS6N/POPWhKhMLCEuNN5nXEY5agmlFtH562vqhQ==.
+info : Installed Microsoft.Extensions.Configuration.CommandLine 8.0.0 from https://api.nuget.org/v3/index.json with content hash NZuZMz3Q8Z780nKX3ifV1fE7lS+6pynDHK71OfU4OZ1ItgvDOhyOC7E6z+JMZrAj63zRpwbdldYFk499t3+1dQ==.
+info : Installed Microsoft.Extensions.Configuration.EnvironmentVariables 8.0.0 from https://api.nuget.org/v3/index.json with content hash plvZ0ZIpq+97gdPNNvhwvrEZ92kNml9hd1pe3idMA7svR0PztdzVLkoWLcRFgySYXUJc3kSM3Xw3mNFMo/bxRA==.
+info : Installed Microsoft.Extensions.Configuration.FileExtensions 8.0.0 from https://api.nuget.org/v3/index.json with content hash McP+Lz/EKwvtCv48z0YImw+L1gi1gy5rHhNaNIY2CrjloV+XY8gydT8DjMR6zWeL13AFK+DioVpppwAuO1Gi1w==.
+info : Installed Microsoft.Extensions.Configuration.Binder 8.0.0 from https://api.nuget.org/v3/index.json with content hash mBMoXLsr5s1y2zOHWmKsE9veDcx8h1x/c3rz4baEdQKTeDcmQAPNbB54Pi/lhFO3K431eEq6PFbMgLaa6PHFfA==.
+info : Installed Microsoft.Extensions.Configuration.Json 8.0.0 from https://api.nuget.org/v3/index.json with content hash C2wqUoh9OmRL1akaCcKSTmRU8z0kckfImG7zLNI8uyi47Lp+zd5LWAD17waPQEqCz3ioWOCrFUo+JJuoeZLOBw==.
+info : Installed Microsoft.Extensions.Configuration 8.0.0 from https://api.nuget.org/v3/index.json with content hash 0J/9YNXTMWSZP2p2+nvl8p71zpSwokZXZuJW+VjdErkegAnFdO1XlqtA62SJtgVYHdKu3uPxJHcMR/r35HwFBA==.
+info : Installed Microsoft.Extensions.FileProviders.Abstractions 8.0.0 from https://api.nuget.org/v3/index.json with content hash ZbaMlhJlpisjuWbvXr4LdAst/1XxH3vZ6A0BsgTphZ2L4PGuxRLz7Jr/S7mkAAnOn78Vu0fKhEgNF5JO3zfjqQ==.
+info : Installed Microsoft.Extensions.Diagnostics 8.0.0 from https://api.nuget.org/v3/index.json with content hash 3PZp/YSkIXrF7QK7PfC1bkyRYwqOHpWFad8Qx+4wkuumAeXo1NHaxpS9LboNA9OvNSAu+QOVlXbMyoY+pHSqcw==.
+info : Installed Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0 from https://api.nuget.org/v3/index.json with content hash cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==.
+info : Installed Microsoft.Extensions.Configuration.UserSecrets 8.0.0 from https://api.nuget.org/v3/index.json with content hash ihDHu2dJYQird9pl2CbdwuNDfvCZdOS0S7SPlNfhPt0B81UTT+yyZKz2pimFZGUp3AfuBRnqUCxB2SjsZKHVUw==.
+info : Installed Microsoft.Extensions.DependencyInjection 8.0.0 from https://api.nuget.org/v3/index.json with content hash V8S3bsm50ig6JSyrbcJJ8bW2b9QLGouz+G1miK3UTaOWmMtFwNNNzUf4AleyDWUmTrWMLNnFSLEQtxmxgNQnNQ==.
+info : Installed System.Text.Json 8.0.0 from https://api.nuget.org/v3/index.json with content hash OdrZO2WjkiEG6ajEFRABTRCi/wuXQPxeV6g8xvUJqdxMvvuCCEk86zPla8UiIQJz3durtUEbNyY/3lIhS0yZvQ==.
+info : Installed Microsoft.Extensions.FileProviders.Physical 8.0.0 from https://api.nuget.org/v3/index.json with content hash UboiXxpPUpwulHvIAVE36Knq0VSHaAmfrFkegLyBZeaADuKezJ/AIXYAW8F5GBlGk/VaibN2k/Zn1ca8YAfVdA==.
+info : Installed Microsoft.Extensions.Logging.Abstractions 8.0.0 from https://api.nuget.org/v3/index.json with content hash arDBqTgFCyS0EvRV7O3MZturChstm50OJ0y9bDJvAcmEPJm0FFpFyjU/JLYyStNGGey081DvnQYlncNX5SJJGA==.
+info : Installed Microsoft.DotNet.ApiCompat.Task 8.0.203 from https://api.nuget.org/v3/index.json with content hash nPEGMojf1mj1oVixe0aiBimSn6xUoZswSjpMPZFMkZ+znYm2GEM5tWGZEWb6OSNIo5gWKyDi1WcI4IL7YiL1Zw==.
+info :   CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.02.25.23.37.20/vulnerability.base.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.02.25.23.37.20/2026.02.26.11.37.21/vulnerability.update.json
+info : Package 'CounterStrikeSharp.API' is compatible with all the specified frameworks in project 'C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.csproj'.
+info : PackageReference for package 'CounterStrikeSharp.API' version '1.0.363' added to file 'C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.csproj'.
+info : Generating MSBuild file C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\obj\Cs2SaveLoc.csproj.nuget.g.props.
+info : Generating MSBuild file C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\obj\Cs2SaveLoc.csproj.nuget.g.targets.
+info : Writing assets file to disk. Path: C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\obj\project.assets.json
+log  : Restored C:\Users\shaun\RiderProjects\cs2-saveloc\Cs2SaveLoc\Cs2SaveLoc.csproj (in 3.09 sec).
