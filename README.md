@@ -4,25 +4,25 @@ A CounterStrikeSharp plugin for Counter-Strike 2 that allows players to save and
 
 ## Features
 
-- Save your current position, rotation, and velocity.
-- Teleport back to your saved location at any time.
-- Individual saved locations for each player.
+- Save a stack of your current position, rotation, and velocity (up to 5 locations).
+- Teleport back to any saved location in your stack.
+- Individual saved location stacks for each player.
 - Supports both `css_` prefixed and non-prefixed commands.
 
 ## Commands
 
 | Command | Description |
 | --- | --- |
-| `saveloc` / `css_saveloc` | Saves your current position, rotation, and velocity. |
-| `loadloc` / `css_loadloc` | Teleports you back to your last saved location. |
+| `saveloc` / `css_saveloc` | Saves your current location to the top of your stack (max 5) and resets last loaded index to 0. |
+| `loadloc [index]` / `css_loadloc [index]` | Teleports you to a saved location. Defaults to the last loaded index (or 0 if none). |
 
 ## Installation
 
 1. Install [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp).
-2. Download the latest release of `Cs2SaveLoc`.
-3. Create a folder named `Cs2SaveLoc` in the `game/csgo/addons/counterstrikesharp/plugins` directory of your CS2 server.
-4. Copy `Cs2SaveLoc.dll` into that folder (`game/csgo/addons/counterstrikesharp/plugins/Cs2SaveLoc/Cs2SaveLoc.dll`).
-5. Restart the server or hot-reload the plugins.
+2. Download the latest `cs2-saveloc-plugin.zip` from the [Releases](https://github.com/yourusername/cs2-saveloc/releases) page.
+3. Extract the contents of the zip into the `game/csgo/` directory of your CS2 server.
+   - The DLL should end up at `game/csgo/addons/counterstrikesharp/plugins/cs2-saveloc/Cs2SaveLoc.dll`.
+4. Restart the server or hot-reload the plugins.
 
 ## Requirements
 
